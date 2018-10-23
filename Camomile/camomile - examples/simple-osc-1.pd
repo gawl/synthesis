@@ -1,0 +1,35 @@
+#N canvas 190 302 369 558 16;
+#X obj 89 15 cnv 15 130 240 empty empty MIDI 20 12 0 14 -262130 -66577
+0;
+#X obj 180 266 cnv 15 100 140 empty empty Env 20 12 0 14 -204800 -66577
+0;
+#X obj 73 328 cnv 15 100 60 empty empty Oscillator 20 12 0 14 -261682
+-66577 0;
+#X obj 101 226 mtof;
+#X obj 101 356 osc~;
+#X obj 101 434 *~;
+#X obj 101 466 dac~;
+#X obj 101 45 notein;
+#X obj 101 191 unpack 0 0;
+#X obj 198 298 / 127;
+#X obj 101 116 pack 0 0 0;
+#X obj 101 156 route 1;
+#X obj 101 81 poly 1 1;
+#X msg 198 328 \$1 50;
+#X obj 198 358 line~;
+#X connect 3 0 4 0;
+#X connect 4 0 5 0;
+#X connect 5 0 6 0;
+#X connect 5 0 6 1;
+#X connect 7 0 12 0;
+#X connect 7 1 12 1;
+#X connect 8 0 3 0;
+#X connect 8 1 9 0;
+#X connect 9 0 13 0;
+#X connect 10 0 11 0;
+#X connect 11 0 8 0;
+#X connect 12 0 10 0;
+#X connect 12 1 10 1;
+#X connect 12 2 10 2;
+#X connect 13 0 14 0;
+#X connect 14 0 5 1;

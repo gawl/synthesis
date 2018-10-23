@@ -1,0 +1,1226 @@
+<REAPER_PROJECT 0.1 "5.29/OSX" 1482146729
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 1
+  ENVATTACH 1
+  MIXERUIFLAGS 11 48
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0
+  MAXPROJLEN 0 600
+  GRID 3199 8 1 8 1 0 0
+  TIMEMODE 1 5 -1 30 0
+  VIDEO_CONFIG 0 0 256
+  PANMODE 3
+  CURSOR 0
+  ZOOM 24.34138822951446 0 0
+  VZOOMEX 8
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1
+  MIDIEDITOR -9633216 0 0
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "" ""
+  <RECORD_CFG
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE "/Users/krzysztof/mobileorc/synthesis"
+  RENDER_PATTERN $track
+  RENDER_FMT 0 2 44100
+  RENDER_1X 0
+  RENDER_RANGE 3 0 0 18 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 8
+  RENDER_DITHER 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 0
+  DEFPITCHMODE 589824
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+    ZXZhdyAAAA==
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    FREQ 800 1600 1
+    BEATLEN 4
+    SAMPLES "" ""
+    PATTERN 2863311530 2863311529
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4
+  PLAYRATE 1 0 0.25 4
+  SELECTION 0 55.925
+  SELECTION2 0 55.925
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERFXLIST
+    WNDRECT 1021 215 793 387
+    SHOW 0
+    LASTSEL 0
+    DOCKED 0
+    BYPASS 0 0 0
+    <JS LOSER/masterLimiter ""
+      -3.000000 200.000000 100.000000 0.000000 250.000000 -0.100000 0.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    >
+    FLOATPOS 0 0 0 0
+    FXID {4816FBCE-9FB9-9D41-B006-67C2E03C2FC9}
+    WAK 0
+  >
+  <MASTERPLAYSPEEDENV
+    ACT 0
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    ACT 0
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+    PT 0.000000000000 120.0000000000 1 262148 0 1
+    PT 6.000000000000 120.0000000000 0
+    PT 10.500000000000 40.0000000000 1
+    PT 13.500000000000 120.0000000000 1
+    PT 24.500000000000 120.0000000000 0
+    PT 32.000000000000 40.0000000000 0
+    PT 39.800000000000 160.0000000000 1
+  >
+  MARKER 1 0 Etiuda 1 0 1 B
+  <REGIONRENDER 1
+    TRACK {7ED087D5-0498-6642-90C3-EB9F5C54E1EA}
+    TRACK {A70D8C06-77A1-1E4F-998F-263C6B5524E1}
+    TRACK {C2A4C9A9-312A-1444-A848-743CCC982083}
+    TRACK {2647F74A-ED01-3343-BDC2-32DEA2F434CE}
+    TRACK {D3247DBD-1C35-C344-9ABB-B5C679FDD845}
+    TRACK {3899309C-8726-F644-878B-E2B709CF7076}
+  >
+  MARKER 1 55.925 "" 1 0 1 B
+  <PROJBAY
+  >
+  <TRACK {CFF5B39D-6836-4448-A439-B1B9122D9BCE}
+    NAME Camomile
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 1
+    SEL 0
+    REC 0 4320 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 6
+    FX 1
+    TRACKID {CFF5B39D-6836-4448-A439-B1B9122D9BCE}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 0 0
+    <FXCHAIN
+      WNDRECT 32 197 839 548
+      SHOW 0
+      LASTSEL 1
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS MIDI/midi_velocitycontrol ""
+        1.000000 0.000000 0.000000 127.000000 0.000000 127.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+      >
+      FLOATPOS 0 0 0 0
+      FXID {C3F711FE-5CC1-B940-B182-48F74F5248BA}
+      WAK 0
+      BYPASS 0 0 0
+      <VST "VST: Camomile (Pierre Guillot) (16ch)" Camomile.vst 0 "" 1346847553
+        QUNHUO5e7f4QAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAABAAAAAAAAAAIAAAAAAAAABAAA
+        AAAAAAAIAAAAAAAAABAAAAAAAAAAIAAAAAAAAABAAAAAAAAAAIAAAAAAAAAQAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAA
+        QAAAAAAAAACAAAAAAAAAAAABAAAAAAAAAAIAAAAAAAAABAAAAAAAAAAIAAAAAAAAABAAAAAAAAAAIAAAAAAAAABAAAAAAAAAAIAAAAAAAACaAAAAAQAAAAAAEAA=
+        VkMyIZEAAAA8Q2Ftb21pbGVTZXR0aW5ncyBuYW1lPSJFdGl1ZGExLXBvbHkucGQiIHBhdGg9Ii9Vc2Vycy9rcnp5c3p0b2YvbW9iaWxlb3JjL3N5bnRoZXNpcy9jYW1v
+        bWlsZSAtIGV4YW1wbGVzIj48cGFyYW1zIFByb2dyYW09IjAiLz48L0NhbW9taWxlU2V0dGluZ3M+AA==
+        AAAQAAAA
+      >
+      FLOATPOS 32 1209 183 176
+      FXID {804D8CBC-1928-4440-B25F-E0CD92D9BCC1}
+      WAK 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 55.925
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      YPOS 0 1
+      IGUID {93819262-B3A8-5743-A584-E972B0D34681}
+      IID 1
+      NAME "02-Pd Pulp-Recorded MIDI [chan 1]"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C8D97AAD-08CA-BF47-9269-D4EB83A814C4}
+      RECPASS 1
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        POOLEDEVTS {A58BB6AF-DEF3-4348-A398-22C368B368AC}
+        E 0 90 34 5b
+        E 3207 90 3a 5b
+        E 1363 90 2c 5b
+        E 1190 90 3e 5b
+        E 590 90 42 5b
+        E 370 90 48 5b
+        E 4800 90 34 00
+        E 0 80 3a 00
+        E 0 80 2c 00
+        E 0 80 3e 00
+        E 0 80 42 00
+        E 0 80 48 00
+        E 0 90 58 67
+        E 240 80 58 00
+        E 240 90 44 64
+        E 240 80 44 00
+        E 0 90 4a 63
+        E 240 80 4a 00
+        E 1440 90 4a 5b
+        E 240 80 4a 00
+        E 0 90 44 5a
+        E 240 80 44 00
+        E 960 90 44 54
+        E 240 80 44 00
+        E 0 90 3e 52
+        E 240 80 3e 00
+        E 0 90 4a 51
+        E 240 80 4a 00
+        E 0 90 44 50
+        E 240 80 44 00
+        E 3200 90 42 65
+        E 0 90 24 65
+        E 0 90 3e 65
+        E 2320 80 42 00
+        E 3840 80 3e 00
+        E 2880 90 58 65
+        E 240 80 58 00
+        E 240 90 44 65
+        E 240 80 44 00
+        E 0 90 4a 65
+        E 240 80 4a 00
+        E 1680 90 44 65
+        E 240 80 44 00
+        E 960 90 44 65
+        E 240 80 44 00
+        E 240 90 4a 65
+        E 240 80 4a 00
+        E 7189 90 58 59
+        E 243 80 58 00
+        E 243 90 44 57
+        E 242 80 44 00
+        E 0 90 4a 57
+        E 243 80 4a 00
+        E 1680 90 44 51
+        E 240 80 44 00
+        E 960 90 50 4d
+        E 0 90 44 4d
+        E 240 80 50 00
+        E 0 80 44 00
+        E 0 90 4a 4d
+        E 240 80 4a 00
+        E 0 90 4a 4c
+        E 240 80 4a 00
+        E 1200 90 38 48
+        E 240 80 38 00
+        E 0 90 3e 47
+        E 240 80 3e 00
+        E 1200 90 38 43
+        E 240 80 38 00
+        E 960 90 2e 3f
+        E 240 80 2e 00
+        E 3600 90 2e 3d
+        E 240 80 2e 00
+        E 240 90 44 40
+        E 240 80 44 00
+        E 0 90 3e 42
+        E 240 80 3e 00
+        E 1680 90 44 4d
+        E 240 80 44 00
+        E 960 90 44 55
+        E 0 90 38 55
+        E 240 80 44 00
+        E 0 80 38 00
+        E 0 90 3e 56
+        E 240 80 3e 00
+        E 0 90 3e 58
+        E 240 80 3e 00
+        E 1200 90 50 61
+        E 240 80 50 00
+        E 0 90 4a 62
+        E 240 80 4a 00
+        E 1200 90 50 6b
+        E 240 80 50 00
+        E 968 90 58 72
+        E 242 80 58 00
+        E 726 80 24 00
+        E 0 90 2c 55
+        E 0 90 60 55
+        E 1904 80 60 00
+        E 31440 80 2c 00
+        E 7920 b0 7b 00
+        GUID {F0780CE0-8629-8549-ADEA-BA64A5F8243A}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 50
+      >
+    >
+  >
+  <TRACK {2B9838A3-43C9-2F46-91A9-89AFF88D58AE}
+    NAME Camomile
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 1
+    SEL 0
+    REC 0 4320 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 6
+    FX 1
+    TRACKID {2B9838A3-43C9-2F46-91A9-89AFF88D58AE}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 0 0
+    <FXCHAIN
+      WNDRECT 32 197 839 548
+      SHOW 0
+      LASTSEL 1
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS MIDI/midi_velocitycontrol ""
+        1.000000 0.000000 0.000000 127.000000 0.000000 127.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+      >
+      FLOATPOS 0 0 0 0
+      FXID {192BD845-76AC-7647-8E58-A2053B3E631A}
+      WAK 0
+      BYPASS 0 0 0
+      <VST "VST: Camomile (Pierre Guillot) (16ch)" Camomile.vst 0 "" 1346847553
+        QUNHUO5e7f4QAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAABAAAAAAAAAAIAAAAAAAAABAAA
+        AAAAAAAIAAAAAAAAABAAAAAAAAAAIAAAAAAAAABAAAAAAAAAAIAAAAAAAAAQAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAA
+        QAAAAAAAAACAAAAAAAAAAAABAAAAAAAAAAIAAAAAAAAABAAAAAAAAAAIAAAAAAAAABAAAAAAAAAAIAAAAAAAAABAAAAAAAAAAIAAAAAAAACcAAAAAQAAAAAAEAA=
+        VkMyIZMAAAA8Q2Ftb21pbGVTZXR0aW5ncyBuYW1lPSJFdGl1ZGExLXBvbHkucGQiIHBhdGg9Ii9Vc2Vycy9rcnp5c3p0b2YvbW9iaWxlb3JjL3N5bnRoZXNpcy9jYW1v
+        bWlsZSAtIGV4YW1wbGVzIj48cGFyYW1zIFByb2dyYW09IjAuNSIvPjwvQ2Ftb21pbGVTZXR0aW5ncz4A
+        AAAQAAAA
+      >
+      FLOATPOS 32 1257 160 128
+      FXID {17ED6241-0EF7-C646-A64E-FC9781E92043}
+      WAK 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 55.925
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      YPOS 0 1
+      IGUID {88AA4E0E-7027-244D-92AB-5999F50D0507}
+      IID 1
+      NAME "02-Pd Pulp-Recorded MIDI [chan 2]"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8110B636-5668-314D-82F7-7FD65B551CA6}
+      RECPASS 1
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        POOLEDEVTS {B1FFCF1A-6EF9-754E-A016-0C91688A09B9}
+        E 12480 91 4e 62
+        E 240 81 4e 00
+        E 0 91 48 61
+        E 240 81 48 00
+        E 0 91 54 60
+        E 240 81 54 00
+        E 0 91 4e 5e
+        E 240 81 4e 00
+        E 960 91 4e 58
+        E 240 81 4e 00
+        E 0 91 48 57
+        E 240 81 48 00
+        E 1440 91 36 4f
+        E 240 81 36 00
+        E 0 91 3c 4e
+        E 240 81 3c 00
+        E 2720 91 44 65
+        E 0 91 34 65
+        E 2560 81 44 00
+        E 6960 81 34 00
+        E 480 91 4e 65
+        E 240 81 4e 00
+        E 240 91 54 65
+        E 240 81 54 00
+        E 0 91 4e 65
+        E 240 81 4e 00
+        E 960 91 4e 65
+        E 240 81 4e 00
+        E 0 91 48 65
+        E 240 81 48 00
+        E 1440 91 36 65
+        E 240 81 36 00
+        E 7680 91 4e 56
+        E 240 81 4e 00
+        E 240 91 54 54
+        E 240 81 54 00
+        E 0 91 4e 54
+        E 240 81 4e 00
+        E 960 91 4e 50
+        E 240 81 4e 00
+        E 0 91 48 50
+        E 240 81 48 00
+        E 960 91 3c 4c
+        E 240 81 3c 00
+        E 0 91 42 4b
+        E 240 81 42 00
+        E 0 91 36 4b
+        E 240 81 36 00
+        E 1440 91 3c 46
+        E 240 81 3c 00
+        E 960 91 3c 42
+        E 240 81 3c 00
+        E 240 91 42 41
+        E 240 81 42 00
+        E 4320 91 36 3f
+        E 240 81 36 00
+        E 1440 91 48 49
+        E 240 81 48 00
+        E 0 91 42 4b
+        E 240 81 42 00
+        E 1200 91 48 53
+        E 240 81 48 00
+        E 960 91 42 5b
+        E 240 81 42 00
+        E 240 91 3c 5e
+        E 240 81 3c 00
+        E 0 91 42 5f
+        E 0 91 4e 5f
+        E 240 81 42 00
+        E 0 81 4e 00
+        E 960 91 42 67
+        E 240 81 42 00
+        E 0 91 48 68
+        E 240 81 48 00
+        E 2174 91 54 77
+        E 195 91 4e 55
+        E 47 81 54 00
+        E 0 91 3e 55
+        E 9104 81 3e 00
+        E 5234 81 4e 00
+        E 26926 b0 7b 00
+        GUID {447C205D-A5A8-F946-9610-B6F4B79BCF40}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 52
+        VELLANE 64 94 18
+        VELLANE -1 94 18
+        VELLANE -2 94 28
+      >
+    >
+  >
+  <TRACK {2C68A459-EFE0-C74F-8286-5AD615D8300E}
+    NAME Camomile
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 1
+    SEL 0
+    REC 0 4320 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 6
+    FX 1
+    TRACKID {2C68A459-EFE0-C74F-8286-5AD615D8300E}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 0 0
+    <FXCHAIN
+      WNDRECT 32 197 839 548
+      SHOW 0
+      LASTSEL 1
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS MIDI/midi_velocitycontrol ""
+        1.000000 0.000000 0.000000 127.000000 0.000000 127.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+      >
+      FLOATPOS 0 0 0 0
+      FXID {F34C9CFF-CF36-3B4B-B253-57C07BBF7D76}
+      WAK 0
+      BYPASS 0 0 0
+      <VST "VST: Camomile (Pierre Guillot) (16ch)" Camomile.vst 0 "" 1346847553
+        QUNHUO5e7f4QAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAABAAAAAAAAAAIAAAAAAAAABAAA
+        AAAAAAAIAAAAAAAAABAAAAAAAAAAIAAAAAAAAABAAAAAAAAAAIAAAAAAAAAQAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAA
+        QAAAAAAAAACAAAAAAAAAAAABAAAAAAAAAAIAAAAAAAAABAAAAAAAAAAIAAAAAAAAABAAAAAAAAAAIAAAAAAAAABAAAAAAAAAAIAAAAAAAACaAAAAAQAAAAAAEAA=
+        VkMyIZEAAAA8Q2Ftb21pbGVTZXR0aW5ncyBuYW1lPSJFdGl1ZGExLXBvbHkucGQiIHBhdGg9Ii9Vc2Vycy9rcnp5c3p0b2YvbW9iaWxlb3JjL3N5bnRoZXNpcy9jYW1v
+        bWlsZSAtIGV4YW1wbGVzIj48cGFyYW1zIFByb2dyYW09IjEiLz48L0NhbW9taWxlU2V0dGluZ3M+AA==
+        AAAQAAAA
+      >
+      FLOATPOS 32 1257 160 128
+      FXID {932A797F-77A2-7344-9763-91B416C767F9}
+      WAK 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 55.925
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      YPOS 0 1
+      IGUID {D777511F-8660-6741-A55D-959DFDDFAE20}
+      IID 1
+      NAME "02-Pd Pulp-Recorded MIDI [chan 3]"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B338541E-F632-0C42-94BB-5F9498DF90E9}
+      RECPASS 1
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        POOLEDEVTS {F865C7CD-D757-8F45-A02F-91F26238D25D}
+        E 11760 92 52 66
+        E 240 82 52 00
+        E 1440 92 40 5d
+        E 240 82 40 00
+        E 0 92 46 5c
+        E 240 82 46 00
+        E 960 92 3a 56
+        E 240 82 3a 00
+        E 0 92 40 55
+        E 240 82 40 00
+        E 1440 92 40 4c
+        E 234 82 40 00
+        E 0 92 3a 4b
+        E 228 82 3a 00
+        E 2258 92 4a 65
+        E 1600 82 4a 00
+        E 7680 92 52 65
+        E 240 82 52 00
+        E 1440 92 40 65
+        E 240 82 40 00
+        E 0 92 46 65
+        E 240 82 46 00
+        E 1200 92 40 65
+        E 240 82 40 00
+        E 1680 92 3a 65
+        E 240 82 3a 00
+        E 6232 92 52 58
+        E 243 82 52 00
+        E 1445 92 40 53
+        E 240 82 40 00
+        E 0 92 46 52
+        E 240 82 46 00
+        E 1200 92 40 4e
+        E 240 82 40 00
+        E 960 92 46 4b
+        E 240 82 46 00
+        E 240 92 4c 49
+        E 240 82 4c 00
+        E 0 92 3a 48
+        E 0 92 46 48
+        E 240 82 3a 00
+        E 0 82 46 00
+        E 960 92 46 45
+        E 240 82 46 00
+        E 0 92 40 44
+        E 240 82 40 00
+        E 2160 92 32 3d
+        E 240 82 32 00
+        E 3840 92 3a 43
+        E 240 82 3a 00
+        E 240 92 32 46
+        E 240 82 32 00
+        E 0 92 3a 48
+        E 240 82 3a 00
+        E 960 92 3a 4f
+        E 240 82 3a 00
+        E 0 92 40 50
+        E 240 82 40 00
+        E 960 92 4c 58
+        E 240 82 4c 00
+        E 0 92 46 59
+        E 240 82 46 00
+        E 0 92 52 5b
+        E 240 82 52 00
+        E 1440 92 4c 65
+        E 240 82 4c 00
+        E 960 92 4c 6c
+        E 242 82 4c 00
+        E 242 92 46 6f
+        E 242 82 46 00
+        E 1210 92 1c 55
+        E 0 92 5e 55
+        E 3824 82 5e 00
+        E 15840 92 1c 00
+        E 21600 b0 7b 00
+        GUID {81DACCF8-D7EE-C644-9AF5-351C9252B460}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 54
+        VELLANE 64 94 18
+        VELLANE -1 94 18
+        VELLANE -2 94 28
+      >
+    >
+  >
+  <TRACK {7ED087D5-0498-6642-90C3-EB9F5C54E1EA}
+    NAME voice1
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.70858445955218 -0.368 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 1
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {7ED087D5-0498-6642-90C3-EB9F5C54E1EA}
+    PERF 0
+    AUXRECV 0 0 1 0 0 0 0 1024 0 -1:U 0 -1 ''
+    AUXRECV 1 0 1 0 0 0 0 1024 0 -1:U 0 -1 ''
+    AUXRECV 2 0 1 0 0 0 0 1024 0 -1:U 0 -1 ''
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      ACT 1
+      VIS 1 0 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 0 0 3 0 1
+      PT 3.5 0 4 0 1
+      PT 6 1 3 0 1
+      PT 14 1 3 0 1
+      PT 17 0 3 0 1
+      PT 19 0 3 0 1
+      PT 19.5 1 3 0 1
+      PT 39.8 1 3 0 1
+      PT 45.425 0 3 0 1
+    >
+    <FXCHAIN
+      WNDRECT 1265 377 861 589
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS Guitar/distort-fuzz ""
+        1.000000 -3.000000 0.000000 -120.000000 2.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+      >
+      FLOATPOS 0 0 0 0
+      FXID {E2755F51-BF1B-FE46-BA39-12581301ED57}
+      WAK 0
+      BYPASS 0 0 0
+      <JS "Till/Transient-driven Auto-Pan v1.1 (Master)" ""
+        0.000000 3.000000 10.000000 0.000000 100.000000 20.000000 0.000000 250.000000 0.000000 - 0.000000 0.000000 5.000000 0.000000 0.000000 -25.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+      >
+      FLOATPOS 0 0 0 0
+      FXID {BECA90EC-64FB-0A41-A33F-1F09EB08BC42}
+      WAK 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 55.92501133786848
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      YPOS 0 1
+      IGUID {540DD14B-B1FB-8B4C-A75B-29265FA01AAD}
+      IID 15
+      NAME voice1.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AC372D43-AB22-7240-82B5-CB8DADD703CE}
+      <SOURCE WAVE
+        FILE "voice1.wav"
+      >
+    >
+  >
+  <TRACK {A70D8C06-77A1-1E4F-998F-263C6B5524E1}
+    NAME voice2
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.70858445955218 -0.176 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 1
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {A70D8C06-77A1-1E4F-998F-263C6B5524E1}
+    PERF 0
+    AUXRECV 0 0 1 0 0 0 0 1025 0 -1:U 0 -1 ''
+    AUXRECV 1 0 1 0 0 0 0 1025 0 -1:U 0 -1 ''
+    AUXRECV 2 0 1 0 0 0 0 1025 0 -1:U 0 -1 ''
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      ACT 1
+      VIS 1 0 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 0 0 0
+      PT 2.38056645 0 4 0 1
+      PT 6 1 0
+      PT 14 1 0
+    >
+    <FXCHAIN
+      WNDRECT 1297 516 793 418
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS Guitar/distort-fuzz ""
+        1.000000 -4.000000 0.000000 -120.000000 0.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+      >
+      FLOATPOS 0 0 0 0
+      FXID {2C1FA54B-E77F-FE47-81CF-5C9D9165E088}
+      WAK 0
+      BYPASS 0 0 0
+      <JS "Till/Transient-driven Auto-Pan v1.1 (Master)" ""
+        0.000000 3.000000 10.000000 0.000000 100.000000 20.000000 0.000000 250.000000 0.000000 - 0.000000 0.000000 5.000000 0.000000 0.000000 39.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+      >
+      FLOATPOS 0 0 0 0
+      FXID {36382B39-AAC0-154A-BFBE-AB0608160B3D}
+      WAK 0
+    >
+    <FXCHAIN_REC
+      WNDRECT 1047 369 793 418
+      SHOW 0
+      LASTSEL 1
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS Guitar/distort-fuzz ""
+        1.000000 -9.000000 0.000000 -120.000000 0.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+      >
+      FLOATPOS 0 0 0 0
+      FXID {B1B3C171-31CA-4A41-B26D-D49A31162CC6}
+      WAK 0
+      BYPASS 0 0 0
+      <JS "Till/Transient-driven Auto-Pan v1.1 (Master)" ""
+        0.000000 3.000000 10.000000 0.000000 100.000000 20.000000 0.000000 250.000000 0.000000 - 0.000000 0.000000 5.000000 0.000000 0.000000 -79.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+      >
+      FLOATPOS 0 0 0 0
+      FXID {BAE0874C-8A09-8446-88CE-332629DF707C}
+      WAK 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 55.92501133786848
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      YPOS 0 1
+      IGUID {4DD9F639-9458-E744-82B5-C9C87174D71D}
+      IID 16
+      NAME voice2.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D3F52FF7-3BF5-7C42-8A85-3F49D20E121E}
+      <SOURCE WAVE
+        FILE "voice2.wav"
+      >
+    >
+  >
+  <TRACK {C2A4C9A9-312A-1444-A848-743CCC982083}
+    NAME voice3
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.70858445955218 -0.08 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 1
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {C2A4C9A9-312A-1444-A848-743CCC982083}
+    PERF 0
+    AUXRECV 0 0 1 0 0 0 0 1026 0 -1:U 0 -1 ''
+    AUXRECV 1 0 1 0 0 0 0 1026 0 -1:U 0 -1 ''
+    AUXRECV 2 0 1 0 0 0 0 1026 0 -1:U 0 -1 ''
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      ACT 1
+      VIS 1 0 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 0 0 0
+      PT 3.29316344 0 4
+      PT 6 1 0
+      PT 14 1 3
+      PT 18 0.3 3
+      PT 20.5 0.78 3 0 1
+      PT 39.8 1 3
+      PT 47.675 0 3
+    >
+    <FXCHAIN
+      WNDRECT 1247 351 793 418
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS Guitar/distort-fuzz ""
+        1.000000 -4.000000 0.000000 -120.000000 0.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+      >
+      FLOATPOS 0 0 0 0
+      FXID {F13BBAE3-2B97-C346-9E63-FCEB8AB412B7}
+      WAK 0
+      BYPASS 0 0 0
+      <JS "Till/Transient-driven Auto-Pan v1.1 (Master)" ""
+        0.000000 3.000000 10.000000 0.000000 100.000000 20.000000 0.000000 250.000000 0.000000 - 0.000000 0.000000 5.000000 0.000000 0.000000 4.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+      >
+      FLOATPOS 0 0 0 0
+      FXID {54314B24-032A-2542-AC8E-0099232FD69C}
+      WAK 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 55.92501133786848
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 1
+      YPOS 0 1
+      IGUID {ED655D18-E828-4D4A-A123-D9D32FC99A3A}
+      IID 17
+      NAME voice3.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {653DCE18-91A8-4D41-B6D3-88C242168BF5}
+      <SOURCE WAVE
+        FILE "voice3.wav"
+      >
+    >
+  >
+  <TRACK {2647F74A-ED01-3343-BDC2-32DEA2F434CE}
+    NAME voice4
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.70858445955218 0.08 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 1
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {2647F74A-ED01-3343-BDC2-32DEA2F434CE}
+    PERF 0
+    AUXRECV 0 0 1 0 0 0 0 1027 0 -1:U 0 -1 ''
+    AUXRECV 1 0 1 0 0 0 0 1027 0 -1:U 0 -1 ''
+    AUXRECV 2 0 1 0 0 0 0 1027 0 -1:U 0 -1 ''
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      ACT 1
+      VIS 1 0 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 0 0 0
+      PT 3 0 4
+      PT 6 1 0
+      PT 14 1 3 0 1
+      PT 18.72430264 0 3 0 1
+      PT 19 0 3 0 1
+      PT 19.5 1 3 0 1
+      PT 39.8 1 3 0 1
+      PT 43.55 0 3 0 1
+    >
+    <FXCHAIN
+      WNDRECT 1297 516 793 418
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS Guitar/distort-fuzz ""
+        1.000000 -4.000000 0.000000 -120.000000 0.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+      >
+      FLOATPOS 0 0 0 0
+      FXID {058B7C0B-902F-A945-A05A-64279CAEFF1D}
+      WAK 0
+      BYPASS 0 0 0
+      <JS "Till/Transient-driven Auto-Pan v1.1 (Master)" ""
+        0.000000 3.000000 10.000000 0.000000 100.000000 20.000000 0.000000 250.000000 0.000000 - 0.000000 0.000000 5.000000 0.000000 0.000000 -90.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+      >
+      FLOATPOS 0 0 0 0
+      FXID {11E20657-E13A-4045-991A-B1EEEE91A00D}
+      WAK 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 55.92501133786848
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      YPOS 0 1
+      IGUID {83271D87-DE35-354B-8DD8-A9D01FC536D8}
+      IID 18
+      NAME voice4.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {18B24EBC-CFFC-7C43-B4CB-31590BB2B82A}
+      <SOURCE WAVE
+        FILE "voice4.wav"
+      >
+    >
+  >
+  <TRACK {D3247DBD-1C35-C344-9ABB-B5C679FDD845}
+    NAME voice5
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.70858445955218 0.176 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 1
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {D3247DBD-1C35-C344-9ABB-B5C679FDD845}
+    PERF 0
+    AUXRECV 0 0 1 0 0 0 0 1028 0 -1:U 0 -1 ''
+    AUXRECV 1 0 1 0 0 0 0 1028 0 -1:U 0 -1 ''
+    AUXRECV 2 0 1 0 0 0 0 1028 0 -1:U 0 -1 ''
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      ACT 1
+      VIS 1 0 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 0 0 4
+      PT 6 1 0
+      PT 39.8 1 3
+      PT 41.3 0 0
+      PT 42.425 0.91 3 0 1
+      PT 52.925 0 0
+    >
+    <FXCHAIN
+      WNDRECT 1297 516 793 418
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS Guitar/distort-fuzz ""
+        1.000000 -4.000000 0.000000 -120.000000 0.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+      >
+      FLOATPOS 0 0 0 0
+      FXID {4B2721E6-69D1-1240-ACEC-224CB277FF2F}
+      WAK 0
+      BYPASS 0 0 0
+      <JS "Till/Transient-driven Auto-Pan v1.1 (Master)" ""
+        0.000000 3.000000 10.000000 0.000000 100.000000 20.000000 0.000000 250.000000 0.000000 - 0.000000 0.000000 5.000000 0.000000 0.000000 68.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+      >
+      FLOATPOS 0 0 0 0
+      FXID {A0E2451C-FB95-DD42-A216-42E9EC93E900}
+      WAK 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 55.92501133786848
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      YPOS 0 1
+      IGUID {7940EBDD-5D1F-B444-80DE-898A462018CD}
+      IID 19
+      NAME voice5.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4B485505-CE40-DF4B-B6DC-E5C7296020B4}
+      <SOURCE WAVE
+        FILE "voice5.wav"
+      >
+    >
+  >
+  <TRACK {3899309C-8726-F644-878B-E2B709CF7076}
+    NAME voice6
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.70858445955218 0.368 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 1
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {3899309C-8726-F644-878B-E2B709CF7076}
+    PERF 0
+    AUXRECV 0 0 1 0 0 0 0 1029 0 -1:U 0 -1 ''
+    AUXRECV 1 0 1 0 0 0 0 1029 0 -1:U 0 -1 ''
+    AUXRECV 2 0 1 0 0 0 0 1029 0 -1:U 0 -1 ''
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      ACT 1
+      VIS 1 0 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 0 0 0
+      PT 1.5 0 4
+      PT 6 1 0
+      PT 39.8 1 3
+      PT 40.55 0 0 0 1
+    >
+    <FXCHAIN
+      WNDRECT 1297 516 793 418
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS Guitar/distort-fuzz ""
+        1.000000 -4.000000 0.000000 -120.000000 0.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+      >
+      FLOATPOS 0 0 0 0
+      FXID {7A45EDEF-636D-5848-985F-45B058BB01B4}
+      WAK 0
+      BYPASS 0 0 0
+      <JS "Till/Transient-driven Auto-Pan v1.1 (Master)" ""
+        0.000000 3.000000 10.000000 0.000000 100.000000 20.000000 0.000000 250.000000 0.000000 - 0.000000 0.000000 5.000000 0.000000 0.000000 97.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+      >
+      FLOATPOS 0 0 0 0
+      FXID {AD5E3226-B59C-A54E-8E23-05A362AEBFB7}
+      WAK 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 55.92501133786848
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      YPOS 0 1
+      IGUID {92EA5457-14A1-A54F-8298-E74A089A207B}
+      IID 20
+      NAME voice6.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5C8087B4-26E1-D74C-A13A-B7E1BE973804}
+      <SOURCE WAVE
+        FILE "voice6.wav"
+      >
+    >
+  >
+  <TRACK {DB22FB36-A4B3-9F42-AF84-9706D2913AD6}
+    NAME reverb
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 1
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {DB22FB36-A4B3-9F42-AF84-9706D2913AD6}
+    PERF 0
+    AUXRECV 3 0 1 0 0 0 0 0 0 -1:U 0 -1 ''
+    AUXRECV 4 0 1 0 0 0 0 0 0 -1:U 0 -1 ''
+    AUXRECV 5 0 1 0 0 0 0 0 0 -1:U 0 -1 ''
+    AUXRECV 6 0 1 0 0 0 0 0 0 -1:U 0 -1 ''
+    AUXRECV 7 0 1 0 0 0 0 0 0 -1:U 0 -1 ''
+    AUXRECV 8 0 1 0 0 0 0 0 0 -1:U 0 -1 ''
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      ACT 1
+      VIS 1 0 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 0 0.31104827 0
+    >
+    <PANENV2
+      ACT 1
+      VIS 1 0 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 0 0 0
+    >
+    <FXCHAIN
+      WNDRECT 0 4 1019 617
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <AU "AU: Lexicon: LexHall" "Lexicon: LexHall" "" 1635083896 1281911857 1281718377
+        6QMAAAAAAAACAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAqAsAADw/eG1sIHZlcnNpb249IjEuMCIgZW5jb2Rpbmc9IlVURi04Ij8+CjwhRE9D
+        VFlQRSBwbGlzdCBQVUJMSUMgIi0vL0FwcGxlLy9EVEQgUExJU1QgMS4wLy9FTiIgImh0dHA6Ly93d3cuYXBwbGUuY29tL0RURHMvUHJvcGVydHlMaXN0LTEuMC5kdGQi
+        Pgo8cGxpc3QgdmVyc2lvbj0iMS4wIj4KPGRpY3Q+Cgk8a2V5PmRhdGE8L2tleT4KCTxkYXRhPgoJQUFBQUFBQUFBQUFBQUFBMUFBQUFBQUFBQUFBQUFBQUJBQUFBQUFB
+        QUFBSUFBQUFBQUFBQUF3QUFBQUFBQUFBRUFBQUEKCUFBQUFBQVVBQUFBQUFBQUFCZ0FBQUFBQUFBQUhBQUFBQUFBQUFBZ0FBQUFBQUFBQUNRQUFBQUFBQUFBS0FBQUFB
+        QUFBCglBQXNBQUFBQUFBQUFEQUFBQUFBQUFBQU5BQUFBQUFBQUFBNEFBQUFBQUFBQUR3QUFBQUFBQUFBUUFBQUFBQUFBQUJFQQoJQUFBQUFBQUFFZ0FBQUFBQUFBQVRB
+        QUFBQUFBQUFCUUFBQUFBQUFBQUZRQUFBQUFBQUFBV0FBQUFBQUFBQUJjQUFBQUEKCUFBQUFHQUFBQUFBQUFBQVpBQUFBQUFBQUFCb0FBQUFBQUFBQUd3QUFBQUFBQUFB
+        Y0FBQUFBQUFBQUIwQUFBQUFBQUFBCglIZ0FBQUFBQUFBQWZBQUFBQUFBQUFDQUFBQUFBQUFBQUlRQUFBQUFBQUFBaUFBQUFBQUFBQUNNQUFBQUFBQUFBSkFBQQoJQUFB
+        QUFBQWxBQUFBQUFBQUFDWUFBQUFBQUFBQUp3QUFBQUFBQUFBb0FBQUFBQUFBQUNrQUFBQUFBQUFBS2dBQUFBQUEKCUFBQXJBQUFBQUFBQUFDd0FBQUFBQUFBQUxRQUFB
+        QUFBQUFBdUFBQUFBQUFBQUM4QUFBQUFBQUFBTUFBQUFBQUFBQUF4CglBQUFBQUFBQUFESUFBQUFBQUFBQU13QUFBQUFBQUFBMEFBQUFBQT09Cgk8L2RhdGE+Cgk8a2V5
+        Pmp1Y2VQbHVnaW5TdGF0ZTwva2V5PgoJPGRhdGE+CglWa015SVVzRkFBQThURVZZU1VOUFRsOVFVa1ZUUlZRZ1VGSkZVMFZVWDFaRlVsTkpUMDQ5SWpBaUlFRk1SMDlT
+        U1ZSSQoJVFY5T1FVMUZQU0pNWlhoSVlXeHNJaUJRUVZKQlRVVlVSVkpmUTA5VlRsUTlJalV6SWlCVGIyWjBYMUJoY21GdFpYUmwKCWNsOHdQU0pRY21Wa1pXeGhlU0ln
+        VTI5bWRGOVFZWEpoYldWMFpYSmZNVDBpVW1WMlpYSmlJRlJwYldVaUlGTnZablJmCglVR0Z5WVcxbGRHVnlYekk5SWxKMllpQlBkWFFnUm5KbGNTSWdVMjltZEY5UVlY
+        SmhiV1YwWlhKZk16MGlSR2xtWm5WegoJYVc5dUlpQlRiMlowWDFCaGNtRnRaWFJsY2w4MFBTSlNWQ0JJYVVOMWRDSWdVMjltZEY5UVlYSmhiV1YwWlhKZk5UMGkKCVFt
+        RnpjMUpVSWlCVGIyWjBYMUJoY21GdFpYUmxjbDgyUFNKVVlXbHNJRmRwWkhSb0lpQlRiMlowWDFCaGNtRnRaWFJsCgljbDgzUFNKRllYSnNlU0JNWlhabGJDSWdVMjlt
+        ZEY5UVlYSmhiV1YwWlhKZk9EMGlUV2w0SWlCTmFYZzlJakV3TUNVaQoJSUZCeVpXUmxiR0Y1WDAxdlpHVTlJa0ZpYzI5c2RYUmxJaUJRY21Wa1pXeGhlVDBpSURJd0xq
+        QXdJRzF6SWlCRWFXWm0KCWRYTnBiMjQ5SWlBNU15VWlJRk5vWVhCbFBTSXpNaUlnVTNCeVpXRmtQU0lnTlRBbElpQlRhWHBsUFNJek1pNHdJRzFsCglkR1Z5Y3lJZ1Vt
+        VjJaWEppWDFScGJXVTlJaUF5TGpjNU16VWdjMlZqSWlCQ1lYTnpVbFE5SWpJdU1qVjRJaUJDWVhOegoJWDFoUFZqMGlJQ0EyTURCSWVpSWdVbFJmU0dsRGRYUTlJaUEw
+        TlRBd1NIb2lJRkpVU0VOZlJHRnRjR2x1WnowaVRtOXkKCWJXRnNJaUJVWVhCZlUyeHZjR1U5SWlBZ01DSWdVM0JwYmowaU1pNHhTSG9pSUZkaGJtUmxjajBpTWpBdU1H
+        MXpJaUJKCglibVpwYm1sMFpUMGlUMlptSWlCVVlXbHNYMWRwWkhSb1BTSlRkR1Z5Wlc4aUlGSm1iRjlVYVcxbFgwMWhjM1E5SWpFdwoJTUNVaUlFeGZURjlTWm14ZlRX
+        OWtaVDBpUVdKemIyeDFkR1VpSUV4ZlRGOVNabXhmUkd4NVBTSWdNelF1TURBZ2JYTWkKCUlFeGZURjlTWm14ZlVHOXNZWEpwZEhrOUlrNXZjbTFoYkNJZ1RGOU1YMUpt
+        YkY5SFlXbHVQU0lnTFRNdU1DQmtRaUlnCglURjlTWDFKbWJGOU5iMlJsUFNKQlluTnZiSFYwWlNJZ1RGOVNYMUptYkY5RWJIazlJaUEwT1M0d01DQnRjeUlnVEY5UwoJ
+        WDFKbWJGOVFiMnhoY21sMGVUMGlUbTl5YldGc0lpQk1YMUpmVW1ac1gwZGhhVzQ5SWlBdE5pNDFJR1JDSWlCU1gxSmYKCVVtWnNYMDF2WkdVOUlrRmljMjlzZFhSbElp
+        QlNYMUpmVW1ac1gwUnNlVDBpSURNMUxqQXdJRzF6SWlCU1gxSmZVbVpzCglYMUJ2YkdGeWFYUjVQU0pPYjNKdFlXd2lJRkpmVWw5U1pteGZSMkZwYmowaUlDMHpMakFn
+        WkVJaUlGSmZURjlTWm14ZgoJVFc5a1pUMGlRV0p6YjJ4MWRHVWlJRkpmVEY5U1pteGZSR3g1UFNJZ05EWXVNREFnYlhNaUlGSmZURjlTWm14ZlVHOXMKCVlYSnBkSGs5
+        SWs1dmNtMWhiQ0lnVWw5TVgxSm1iRjlIWVdsdVBTSWdMVFl1TlNCa1FpSWdSV0Z5YkhsZlRHVjJaV3c5CglJaUF0Tnk0MUlHUkNJaUJGY214ZlQzVjBYMVI1Y0dVOUlr
+        OXVaU0JRYjJ4bElFeHZjR0Z6Y3lJZ1JYSnNYMDkxZEY5RwoJY21WeFBTSWdOVEF3TUVoNklpQkZjbXhmVDNWMFgwSlhhV1IwYUQwaU1TNHhJRTlqZENJZ1JYSnNYMDkx
+        ZEY5VGFHVnMKCVpqMGlMVGsyTGpBZ1pFSWlJRkoyWWw5TVpYWmxiRDBpSUMwM0xqVWdaRUlpSUZKMllsOVBkWFJmVkhsd1pUMGlUMjVsCglJRkJ2YkdVZ1RHOXdZWE56
+        SWlCU2RtSmZUM1YwWDBaeVpYRTlJaUEyTlRBd1NIb2lJRkoyWWw5UGRYUmZRbGRwWkhSbwoJUFNJeExqRWdUMk4wSWlCU2RtSmZUM1YwWDFOb1pXeG1QU0l0T1RZdU1D
+        QmtRaUlnUmtGRFZFOVNXVjlRVWtWVFJWUmYKCVJrOU1SRVZTUFNJeklpQkdRVU5VVDFKWlgxQlNSVk5GVkY5SlRrUkZXRDBpTUNJdlBnQUEKCTwvZGF0YT4KCTxrZXk+
+        bWFudWZhY3R1cmVyPC9rZXk+Cgk8aW50ZWdlcj4xMjgxNzE4Mzc3PC9pbnRlZ2VyPgoJPGtleT5uYW1lPC9rZXk+Cgk8c3RyaW5nPlVudGl0bGVkPC9zdHJpbmc+Cgk8
+        a2V5PnN1YnR5cGU8L2tleT4KCTxpbnRlZ2VyPjEyODE5MTE4NTc8L2ludGVnZXI+Cgk8a2V5PnR5cGU8L2tleT4KCTxpbnRlZ2VyPjE2MzUwODM4OTY8L2ludGVnZXI+
+        Cgk8a2V5PnZlcnNpb248L2tleT4KCTxpbnRlZ2VyPjA8L2ludGVnZXI+CjwvZGljdD4KPC9wbGlzdD4KAQAAAAAAAAAAAA==
+      >
+      FLOATPOS 0 0 0 0
+      FXID {942D252B-2CD6-7643-8A83-8BFC95101177}
+      WAK 0
+    >
+  >
+  <EXTENSIONS
+  >
+>
